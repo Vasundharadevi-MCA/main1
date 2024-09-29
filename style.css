@@ -445,8 +445,8 @@ color: #fff;
 }
 .home-img img{
     width: 30%;
-    
-}
+    margin-right: 100%;
+    }
 .about {
     flex-direction: column;
     text-align: center;
@@ -510,7 +510,8 @@ display: none; /* Hidden by default */
 }
 
 .navbar.active {
-    display: flex; /* Show navbar when active */
+    display: flex;
+    padding: 10px; /* Show navbar when active */
 }
 
 .toggle-icon {
