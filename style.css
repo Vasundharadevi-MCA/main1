@@ -506,7 +506,7 @@ display: none; /* Hidden by default */
     left: 0%;
     width: 100%;
     text-align: center;
-    background-color: rgb(200, 200, 22); /* Match your header background */
+    background-color: rgb(216, 83, 81); /* Match your header background */
 }
 
 .navbar.active {
